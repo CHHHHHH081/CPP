@@ -16,6 +16,7 @@ bin-release/
 #过滤掉不想要文件和文件夹
 *.exe
 *.sln
+*.slnx
 *.vcxproj
 *.filters
 *.user
